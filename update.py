@@ -45,14 +45,14 @@ def get_size(filepath):
 
 def gen_release():
     os.system('bzip2 -c9k ./Packages > ./Packages.bz2')
-    ret = "Origin: BlackWings's Repo\n"
+    ret = "Origin: BlackWings XS Repo\n"
     ret += 'Label: BlackWings\n'
     ret += 'Suite: stablen\n'
     ret += 'Version: 1.0\n'
     ret += 'Codename: BlackWings\n'
     ret += 'Architecture: iphoneos-arm\n'
     ret += 'Components: main\n'
-    ret += "Description: BlackWings's Repo\n"
+    ret += "Description: BlackWings XS Repo\n"
     ret += 'MD5Sum:\n'
     ret += ' {} {} Packages\n'.format(get_md5('Packages'), get_size('Packages'))
     ret += ' {} {} Packages.bz2\n'.format(get_md5('Packages.bz2'), get_size('Packages.bz2'))
