@@ -13,7 +13,6 @@ function loadPackageInfo() {
 		success: function (returnhtml) {
 			$("#tweakStatusInfo").hide();
 			var decodeResp = eval('('+returnhtml+')');
-			console.log(decodeResp);
 			if(decodeResp.name) {
 				document.title = decodeResp.name;
 				$("#name").html(decodeResp.name);
@@ -21,7 +20,7 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.description) {
 				$("#description").html(decodeResp.description);
-				$("#ddescription_").show();
+				$("#description_").show();
 			}
         },
 		error: function (err) {
