@@ -19,7 +19,10 @@ def gen_package(filepath):
     ret += 'Maintainer: {}\n'.format(deb_info.get('Maintainer'))
     ret += 'Version: {}\n'.format(deb_info.get('Version'))
     ret += 'Filename: ./{}\n'.format(filepath)
-    ret += 'MD5sum: {}\n'.format(get_md5(filepath))
+    ret += 'MD5sum: {}\n'.format(get_hash(filepath, 'md5'))
+    ret += 'SHA1: {}\n'.format(get_hash(filepath, 'sha1'))
+    ret += 'SHA256: {}\n'.format(get_hash(filepath, 'sha256'))
+    ret += 'SHA512: {}\n'.format(get_hash(filepath, 'sha512'))
     ret += 'Depiction: https://ph03nixteam.github.io/xs/description.html?id={}\n'.format(deb_info.get('Package'))
     ret += 'Size: {}\n'.format(get_size(filepath))
     info = {
@@ -32,11 +35,19 @@ def gen_package(filepath):
     return ret
 
 
-def get_md5(filepath):
+def get_hash(filepath, hash_type):
     fs = open(filepath, 'rb')
-    md5str = hashlib.md5(fs.read()).hexdigest()
+    hash_str = ''
+    if hash_type == 'md5':
+        hash_str = hashlib.md5(fs.read()).hexdigest()
+    elif hash_type == 'sha1':
+        hash_str = hashlib.sha1(fs.read()).hexdigest()
+    elif hash_type == 'sha256':
+        hash_str = hashlib.sha256(fs.read()).hexdigest()
+    elif hash_type == 'sha512':
+        hash_str = hashlib.sha256(fs.read()).hexdigest()
     fs.close()
-    return md5str
+    return hash_str
 
 
 def get_size(filepath):
@@ -54,8 +65,8 @@ def gen_release():
     ret += 'Components: main\n'
     ret += "Description: BlackWings XS Repo\n"
     ret += 'MD5Sum:\n'
-    ret += ' {} {} Packages\n'.format(get_md5('Packages'), get_size('Packages'))
-    ret += ' {} {} Packages.bz2\n'.format(get_md5('Packages.bz2'), get_size('Packages.bz2'))
+    ret += ' {} {} Packages\n'.format(get_hash('Packages', 'md5'), get_size('Packages'))
+    ret += ' {} {} Packages.bz2\n'.format(get_hash('Packages.bz2', 'md5'), get_size('Packages.bz2'))
     fw = open('Release', 'w')
     fw.write(ret)
     fw.close()
