@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head>
+<title>Description</title>
+<link rel='stylesheet' type='text/css' href='ios7.css'/>
+<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="description.js"></script>
+<body onload="loadPackageInfo()">
+<span id="showAddRepo_" hidden><h2>BlackWings's Repo</h2>
+	<ul>
+		<li>
+			<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://bwat.ph03nix.club">
+				<img class="icon" src="cydia7.png"/>
+				<label>Open Cydia</label>
+			</a>
+		</li>
+	</ul>
+</span>
+<p style="text-align:center;" id="showAddRepoUrl_" hidden>Repo: https://bwat.ph03nix.club</p>
+<span id="tweakStatusInfo">
+	<ul style="background:#c6e8ff">
+		<center>
+			<li>
+				<p id="errorInfo">Loading Description...</p>
+			</li>
+		</center>
+	</ul>
+</span>
+<span id="description_" hidden>
+	<h2>Description</h2>
+	<ul>
+		<li>
+			<p id="description"></p>
+		</li>
+	</ul>
+</span>
+
+<p style="text-align:center;">BlackWings © 2019</p>
+</body></html>
