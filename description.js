@@ -13,6 +13,7 @@ function loadPackageInfo() {
 		success: function (returnhtml) {
 			$("#tweakStatusInfo").hide();
 			var decodeResp = eval('('+returnhtml+')');
+			console.log(decodeResp);
 			if(decodeResp.name) {
 				document.title = decodeResp.name;
 				$("#name").html(decodeResp.name);
