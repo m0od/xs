@@ -32,6 +32,23 @@ MD5sum: 5974ffff59e0ebf5f6389bdff593d74d
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
 Size: 46842030
 
+Package: com.blackwings.autotouch
+Name: AutoTouch
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8
+Priority: optional
+Architecture: iphoneos-arm
+Author: Kent Krantz <kentkrantz@gmail.com>
+Homepage: https://ph03nixteam.github.io/xs
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 6.0.7
+Filename: ./debs/com.blackwings.autotouch_6.0.7_iphoneos-arm.deb
+MD5sum: f18924d64b5a2d46b42e1ca086a6a5db
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
+Size: 28705708
+
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
 Description: Free Premium VPN Proxy Master
