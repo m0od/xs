@@ -43,7 +43,7 @@ Name: AutoTouch
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.AutoTouch.ios8.inputtext
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
 Priority: optional
 Architecture: iphoneos-arm
 Author: Kent Krantz <kentkrantz@gmail.com>
@@ -51,12 +51,12 @@ Homepage: https://ph03nixteam.github.io/xs
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.0.7
 Filename: ./debs/com.blackwings.autotouch_6.0.7_iphoneos-arm.deb
-MD5sum: 218bbb18764e1c70518803bce56538e5
-SHA1: 826734bdbf056e6bafb8dc6df9185acd88fbd96a
-SHA256: 791d52811ee4d0a58652d411533f58807fac5468b090ded6063afa12376a3f25
-SHA512: 664639a9899de1519fa7c4c67602b259b964c457967479c359f7381421639d9f472faf3afdc4f06649fac715cacdd3e311c8f8c25ac27414e41f8162d7f8ab4a
+MD5sum: 0ec109fb46a11438acc116a5bffe158f
+SHA1: 06d215327787ee3fb0d552bb11bff28ae689189f
+SHA256: 3809f6e53d85638f23fedf869ce0cba8576e9420df38b2c8a40f75cd9a543e84
+SHA512: 1b62f68b917b967d217892c57c011448fa952fcf4865e02bac904fce59ede058a57305068704e6548ae8fe4685d1594f3d9a9e397b40ee396f47ba5fb71f8142
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
-Size: 28733000
+Size: 28733004
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
