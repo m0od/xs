@@ -20,7 +20,7 @@ def gen_package(filepath):
     ret += 'Version: {}\n'.format(deb_info.get('Version'))
     ret += 'Filename: ./{}\n'.format(filepath)
     ret += 'MD5sum: {}\n'.format(get_md5(filepath))
-    ret += 'Depiction: https://bwat.ph03nix.club/description.html?id={}\n'.format(deb_info.get('Package'))
+    ret += 'Depiction: https://ph03nixteam.github.io/xs/description.html?id={}\n'.format(deb_info.get('Package'))
     ret += 'Size: {}\n'.format(get_size(filepath))
     info = {
         "name": deb_info.get('Name'),
