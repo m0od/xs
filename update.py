@@ -19,10 +19,9 @@ def gen_package(filepath):
     ret += 'Maintainer: {}\n'.format(deb_info.get('Maintainer'))
     ret += 'Version: {}\n'.format(deb_info.get('Version'))
     ret += 'Filename: ./{}\n'.format(filepath)
-    with open(filepath, 'rb') as f:
-        ret += 'MD5sum: {}\n'.format(hashlib.md5(f.read()).hexdigest())
+    ret += 'MD5sum: {}\n'.format(get_md5(filepath))
     ret += 'Depiction: https://bwat.ph03nix.club/description.html?id={}\n'.format(deb_info.get('Package'))
-    ret += 'Size: {}\n'.format(os.path.getsize(filepath))
+    ret += 'Size: {}\n'.format(get_size(filepath))
     info = {
         "name": deb_info.get('Name'),
         "description": deb_info.get('Description')
@@ -31,6 +30,37 @@ def gen_package(filepath):
     with open(os.path.join(folder, deb_info.get('Package')), 'w') as f:
         f.write(json.dumps(info))
     return ret
+
+
+def get_md5(filepath):
+    fs = open(filepath, 'rb')
+    md5str = hashlib.md5(fs.read()).hexdigest()
+    fs.close()
+    return md5str
+
+
+def get_size(filepath):
+    return os.path.getsize(filepath)
+
+
+def gen_release():
+    os.system('bzip2 -c9k ./Packages > ./Packages.bz2')
+    ret = "Origin: BlackWings's Repo\n"
+    ret += 'Label: BlackWings\n'
+    ret += 'Suite: stablen\n'
+    ret += 'Version: 1.0\n'
+    ret += 'Codename: BlackWings\n'
+    ret += 'Architecture: iphoneos-arm\n'
+    ret += 'Components: main\n'
+    ret += "Description: BlackWings's Repo\n"
+    ret += 'MD5Sum:\n'
+    ret += ' {} {} Packages\n'.format(get_md5('Packages'), get_size('Packages'))
+    ret += ' {} {} Packages.bz2\n'.format(get_md5('Packages.bz2'), get_size('Packages.bz2'))
+    fw = open('Release', 'w')
+    fw.write(ret)
+    fw.close()
+
+
 files = []
 for r, d, f in os.walk('debs'):
     for file in f:
@@ -39,30 +69,4 @@ for r, d, f in os.walk('debs'):
 with open('Packages', 'w') as f:
     for fp in files:
         f.write(gen_package(fp) + '\n')
-# print(gen_package('com.blackwings.autotouch_5.1.5_iphoneos-arm.deb'))
-
-
-# with open('com.blackwings.autotouch_5.1.5_iphoneos-arm.deb', "rb") as f:
-#     bytes = f.read()  # read file as bytes
-#     readable_hash = hashlib.md5(bytes).hexdigest();
-#     print(readable_hash)
-# import os
-# print(os.path.getsize('com.blackwings.autotouch_5.1.5_iphoneos-arm.deb'))
-'''
-Package: com.blackwings.autotouch
-Name: AutoTouch
-Description: Record and playback touch operations, play macro scripts automatically.
-Section: Utilities
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8
-Priority: optional
-Architecture: iphoneos-arm
-Author: Kent Krantz <kentkrantz@gmail.com>
-Homepage: https://bwat.ph03nix.club
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Version: 5.1.5
-Filename: ./com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-Depiction: https://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch
-MD5sum: 7646f3470981d0608a789f9e45900144
-Size: 45149698
-'''
+gen_release()
