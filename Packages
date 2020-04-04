@@ -45,9 +45,9 @@ Homepage: https://ph03nixteam.github.io/xs
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.0.7
 Filename: ./debs/com.blackwings.autotouch_6.0.7_iphoneos-arm.deb
-MD5sum: f18924d64b5a2d46b42e1ca086a6a5db
+MD5sum: 3d1833f15592d400136a6d395863204b
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
-Size: 28705708
+Size: 28733012
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
