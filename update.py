@@ -45,7 +45,7 @@ def get_hash(filepath, hash_type):
     elif hash_type == 'sha256':
         hash_str = hashlib.sha256(fs.read()).hexdigest()
     elif hash_type == 'sha512':
-        hash_str = hashlib.sha256(fs.read()).hexdigest()
+        hash_str = hashlib.sha512(fs.read()).hexdigest()
     fs.close()
     return hash_str
 

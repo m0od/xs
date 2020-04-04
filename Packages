@@ -14,7 +14,7 @@ Filename: ./debs/com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
 MD5sum: 7646f3470981d0608a789f9e45900144
 SHA1: f51065b27d84fdd1045eebea692f2f1ccf31ceee
 SHA256: ed663cbd65f9a87c28304709e522678231e6371af6ba8e207ab72f03706c7bd1
-SHA512: ed663cbd65f9a87c28304709e522678231e6371af6ba8e207ab72f03706c7bd1
+SHA512: 214c6a19cc6b6271679c848a6751fd8bb0b2edee1db577c9ac4d393edfe29cf6aa6f853b78cfea242f738928b9be40f0a32e697e7fedd37fb6e53a8be8ce10f5
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
 Size: 45149698
 
@@ -34,7 +34,7 @@ Filename: ./debs/com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
 MD5sum: 5974ffff59e0ebf5f6389bdff593d74d
 SHA1: c9aa3199e3c4854a7e66f8eadb32c35afa07a1dd
 SHA256: aebd6009fadb3d76d8d3804e6fb104c30179ca3e5e6923b34a7cb826037aa42a
-SHA512: aebd6009fadb3d76d8d3804e6fb104c30179ca3e5e6923b34a7cb826037aa42a
+SHA512: 45eb55c679c86264f8b1b0f0eac1b0190f47b44be23c60c9ed29a480a250359a0e8c31c0b1da2cf3812a6ab79ff21eff1720646e4cdc51175a142561ee81525a
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
 Size: 46842030
 
@@ -54,7 +54,7 @@ Filename: ./debs/com.blackwings.autotouch_6.0.7_iphoneos-arm.deb
 MD5sum: 81833faa7f489a2b11ef1d610e57c6e6
 SHA1: 1d2debdd84b0280b89f8a016f994dee9278c1791
 SHA256: 492145a0fd29c164a5ec77e6e930c6e55e838f2d4507bf20eb9bf295d25bee5e
-SHA512: 492145a0fd29c164a5ec77e6e930c6e55e838f2d4507bf20eb9bf295d25bee5e
+SHA512: f3330d9182ee06f2bea906712f981a342ea2e8f7882a64eba001487a49b786a74594f4e5b40a7cbd578a408562e749f7fe15475f304cc3613c1bf328fe3846fa
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
 Size: 28732992
 
@@ -74,7 +74,7 @@ Filename: ./debs/net.hollr2099.vpnproxymasterpp_1.0.1.3_iphoneos-arm.deb
 MD5sum: f5ec2cdec8fccd994010f6220a465ab7
 SHA1: b0f1859f55eeb655e462860bd48f429c29900094
 SHA256: 9edfa3fa9c76b8ce8645cb694356780e12df5701a595417f87a4e3a956e39359
-SHA512: 9edfa3fa9c76b8ce8645cb694356780e12df5701a595417f87a4e3a956e39359
+SHA512: 1fd460bad8c2f6ea8557087d5bba6de1ac322d48f2f8d3e2f635fa82460caaaaa3bdeca2a66723f985d354036222cf8d7cde949d24bd3d714e0d94a524a81778
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=net.hollr2099.vpnproxymasterpp
 Size: 44816
 
@@ -94,6 +94,6 @@ Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
 SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
-SHA512: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+SHA512: 6b8dc9bc2a6164c45c8474617407adaa0cc5273aa70c3a3dd6a65be3648c7e28a326898cae6e6a0f4e522eeda7063a94c90dcbd8bd6fa8f4209cc89f6af2e5da
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=ru.domo.cocoatop64
 Size: 151514
