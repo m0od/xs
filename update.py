@@ -10,12 +10,12 @@ def gen_package(filepath):
     ret += 'Name: {}\n'.format(deb_info.get('Name'))
     ret += 'Description: {}\n'.format(deb_info.get('Description'))
     ret += 'Section: {}\n'.format(deb_info.get('Section'))
-    ret += 'Depends: {}\n'.format(deb_info.get('Depends'))
-    ret += 'Conflicts: {}\n'.format(deb_info.get('Conflicts'))
-    ret += 'Priority: {}\n'.format(deb_info.get('Priority'))
+    ret += 'Depends: {}\n'.format(deb_info.get('Depends') is not None and deb_info.get('Depends') or '')
+    ret += 'Conflicts: {}\n'.format(deb_info.get('Conflicts') is not None and deb_info.get('Conflicts') or '')
+    ret += 'Priority: {}\n'.format(deb_info.get('Priority') is not None and deb_info.get('Priority') or 'optional')
     ret += 'Architecture: {}\n'.format(deb_info.get('Architecture'))
     ret += 'Author: {}\n'.format(deb_info.get('Author'))
-    ret += 'Homepage: {}\n'.format(deb_info.get('Homepage'))
+    ret += 'Homepage: {}\n'.format(deb_info.get('Homepage') is not None and deb_info.get('Homepage') or '')
     ret += 'Maintainer: {}\n'.format(deb_info.get('Maintainer'))
     ret += 'Version: {}\n'.format(deb_info.get('Version'))
     ret += 'Filename: ./{}\n'.format(filepath)
@@ -67,6 +67,8 @@ for r, d, f in os.walk('debs'):
         if '.deb' in file:
             files.append(os.path.join(r, file))
 with open('Packages', 'w') as f:
+    pkg = ''
     for fp in files:
-        f.write(gen_package(fp) + '\n')
+        pkg += gen_package(fp) + '\n'
+    f.write(pkg.strip())
 gen_release()
