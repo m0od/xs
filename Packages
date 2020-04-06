@@ -1,5 +1,5 @@
-Package: com.blackwings.autotouch
-Name: AutoTouch
+Package: com.blackwings.autotouch.515
+Name: AutoTouch v5.1.5 iOS <= 10
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
@@ -11,15 +11,15 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.1.5
 Filename: ./debs/com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-MD5sum: 7646f3470981d0608a789f9e45900144
-SHA1: f51065b27d84fdd1045eebea692f2f1ccf31ceee
-SHA256: ed663cbd65f9a87c28304709e522678231e6371af6ba8e207ab72f03706c7bd1
-SHA512: 214c6a19cc6b6271679c848a6751fd8bb0b2edee1db577c9ac4d393edfe29cf6aa6f853b78cfea242f738928b9be40f0a32e697e7fedd37fb6e53a8be8ce10f5
-Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
-Size: 45149698
+MD5sum: 66e36107d0132a464b1e59300ae7e4f0
+SHA1: ec3b23e99e1fdde31747e57faf76ccd3d7adfd0e
+SHA256: fb16ce74f8d6a455705e4eb8b2e099e6dd54f66db86d1eaac550ceb5278d7057
+SHA512: 8eee6b7689a630357071236312e10ec94bfd02e9ee0b8498fac7ed167bab521eaa5b43ff34c289d6e05e3c3273512ce5a0859dad0131cf6fcf9a75e8376f4e10
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.515
+Size: 28086516
 
-Package: com.blackwings.autotouch
-Name: AutoTouch
+Package: com.blackwings.autotouch.524
+Name: AutoTouch v5.2.4 iOS 11 - 12
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
@@ -31,15 +31,15 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.4
 Filename: ./debs/com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
-MD5sum: 5974ffff59e0ebf5f6389bdff593d74d
-SHA1: c9aa3199e3c4854a7e66f8eadb32c35afa07a1dd
-SHA256: aebd6009fadb3d76d8d3804e6fb104c30179ca3e5e6923b34a7cb826037aa42a
-SHA512: 45eb55c679c86264f8b1b0f0eac1b0190f47b44be23c60c9ed29a480a250359a0e8c31c0b1da2cf3812a6ab79ff21eff1720646e4cdc51175a142561ee81525a
-Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch
-Size: 46842030
+MD5sum: 2bbeb16659b30762258def1da1349e5b
+SHA1: b5221008a5e4ad46e6517002b9ed7bb8790166e2
+SHA256: 418c29208c06fe497466afe60105c64c293252acba483355229d2303eff23a17
+SHA512: f515dbfda8879960c863b3d4cab25d448bb8016905db9a68a6fd667e97649a470ed4abbeafe1ed0b6992c6614b62fd47c58c4fa9a14bf0b6245e2158cbfa8cff
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.524
+Size: 28799412
 
 Package: com.blackwings.autotouch.612
-Name: AutoTouch v6.1.2
+Name: AutoTouch v6.1.2 iOS 13
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
@@ -51,12 +51,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.2
 Filename: ./debs/com.blackwings.autotouch_6.1.2_iphoneos-arm.deb
-MD5sum: eb355812252c0a969ef7a19dca70dd50
-SHA1: 2012f1e529d2fe8052a42c3f7982014a2bb36f79
-SHA256: a3516c8b1021962a7f4e5c5067683f98aee18f0b121928356eb815b193f7e8e9
-SHA512: 88a5b98351212a60a139cb92584d24a7f3a3a7bf74f218682f7673cae42c689768224e693c5f75fcdf4484554aefd62f48d8dba5e01aeb22ee7e1c747983ab3e
+MD5sum: 83dcfff775dbd5b7570ec7431300cf26
+SHA1: 47429e557c19a3e2983fc82705d7cfb6d53a1259
+SHA256: 1956488adee77fd9340b2a58c68b9887b5abe69c2421baf09aa75615439950a4
+SHA512: 56aa3a5b9da3f7e5f58044531d16c11bf4e9c8eba96374036ec0a3770da6ea06117477eb0e762149b5135e1c5f8a7a55132b5f03033313eaf84229e201ba6209
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.612
-Size: 28708844
+Size: 28707928
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
