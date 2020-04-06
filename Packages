@@ -1,3 +1,23 @@
+Package: com.blackwings.autotouch.612
+Name: AutoTouch with inputText v6.1.2
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
+Priority: optional
+Architecture: iphoneos-arm
+Author: Kent Krantz <kentkrantz@gmail.com>
+Homepage: https://autotouch.net
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 6.1.2
+Filename: ./debs/com.blackwings.autotouch.6.1.2_iphoneos-arm.deb
+MD5sum: 973392227a3cc93309f93db4b191eecd
+SHA1: 261c2115238590041a25d7a190bd0b22233d3fb2
+SHA256: 40d18a39d7ef0c48a2c4fd29d3db6f822c8f4c2e23531129f65fb189abf50209
+SHA512: ee9095450a118844a4873d8d687a1a806f8112a81a8cfbee4b1d397e0fd88f606011fcf97f1e80545820b203df6d7de39c50d629be12ebb8bc88159a83072b5a
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.612
+Size: 28710484
+
 Package: com.blackwings.autotouch
 Name: AutoTouch
 Description: Record and playback touch operations, play macro scripts automatically.
