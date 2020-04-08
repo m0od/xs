@@ -11,12 +11,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.1.5
 Filename: ./debs/com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-MD5sum: 66e36107d0132a464b1e59300ae7e4f0
-SHA1: ec3b23e99e1fdde31747e57faf76ccd3d7adfd0e
-SHA256: fb16ce74f8d6a455705e4eb8b2e099e6dd54f66db86d1eaac550ceb5278d7057
-SHA512: 8eee6b7689a630357071236312e10ec94bfd02e9ee0b8498fac7ed167bab521eaa5b43ff34c289d6e05e3c3273512ce5a0859dad0131cf6fcf9a75e8376f4e10
+MD5sum: 4e4683342c5f9fd3d9aae0236d96614e
+SHA1: 02a976e74759e24da5773d8875a211f155da3a4b
+SHA256: ee0d34835cd42faf44174a860fd027838c77d564de22290343eb20806bab5c89
+SHA512: 2ae2f5a9fa5818d30868ab0b4c53a6611857ca1130a5ba2e2ef2d16761e2319872a47fbbbb499b09e01e7ffa361ff8941240f2137e2b8a81cb2a7a7651c75830
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.515
-Size: 28086516
+Size: 27840480
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
