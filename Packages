@@ -39,7 +39,7 @@ Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.a
 Size: 28751364
 
 Package: com.blackwings.autotouch.526
-Name: AutoTouch
+Name: AutoTouch v5.2.6 iOS 11 - 12
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
@@ -51,12 +51,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.6
 Filename: ./debs/com.blackwings.autotouch_5.2.6_iphoneos-arm.deb
-MD5sum: cfc7acaaf16202652f7e1c138a7f4ed5
-SHA1: b91c9f64e97574f48e34d71bfb948b059ef896fa
-SHA256: 775a2bd70ade3b22e551d2b3af9655da3f283a5093516b4fef19ef22f1f2c9af
-SHA512: 9c2573d932704d431a3bcc9a90614f957989b97bcd6fd901bb627de27c2a5b8e4508c13881fd049f3ee33d69242d8b03f28501f97768b06c949dc1a90f8a03a2
+MD5sum: 2394354a126290aedcac5e1638567348
+SHA1: 6be46e5fba4988932905f23dfb90c3c3d45e2873
+SHA256: a4df32f02e4ba50b254636cc3a2ebc54457c37251c548d561c84f71b0c163773
+SHA512: c65b4d6ce42de2f67a4f76817966476bf121a628ecb4040f2ff84b5f4eaa90cce5c085c253d45aa6e65114d16922eb2efa5e0eafc31bf556e77e735c2c613dc0
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.526
-Size: 28753816
+Size: 28753836
 
 Package: com.blackwings.autotouch.612
 Name: AutoTouch v6.1.2 iOS 13
