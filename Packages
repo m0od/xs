@@ -31,12 +31,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.4
 Filename: ./debs/com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
-MD5sum: 2bbeb16659b30762258def1da1349e5b
-SHA1: b5221008a5e4ad46e6517002b9ed7bb8790166e2
-SHA256: 418c29208c06fe497466afe60105c64c293252acba483355229d2303eff23a17
-SHA512: f515dbfda8879960c863b3d4cab25d448bb8016905db9a68a6fd667e97649a470ed4abbeafe1ed0b6992c6614b62fd47c58c4fa9a14bf0b6245e2158cbfa8cff
+MD5sum: acc96b5748f8785e127dcabd79aeaa18
+SHA1: f94a1bf94b3cb2055049773ff969d113b33c1d09
+SHA256: 6650381dbeb194116bf5d88760ba977f865c8cf758563c7671c85f47dad24ae9
+SHA512: 666684533f9400a4b0fd8c33322bdfcdc7f305de0b7e2cae264ab496d3621418e71e77197d66cc9a0a97394aab92a8bdd550b2fd2415dccc4f738a0055778ea7
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.524
-Size: 28799412
+Size: 28751572
 
 Package: com.blackwings.autotouch.612
 Name: AutoTouch v6.1.2 iOS 13
