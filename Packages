@@ -38,12 +38,12 @@ SHA512: 62b4f7a74dd1da967aa898f814ab7d4bf503ad56c6a864b9e7b582435ce754ca8fbee27f
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.524
 Size: 28751364
 
-Package: me.autotouch.AutoTouch.ios8
+Package: com.blackwings.autotouch.526
 Name: AutoTouch
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8
 Priority: optional
 Architecture: iphoneos-arm
 Author: Kent Krantz <kentkrantz@gmail.com>
@@ -51,12 +51,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.6
 Filename: ./debs/com.blackwings.autotouch_5.2.6_iphoneos-arm.deb
-MD5sum: d56b674d879c39853e726d50a75b37b2
-SHA1: 0819df8c0d65a9104d4a9a0ed78daa4d2e390749
-SHA256: 2f50c2cd357ff3e9bca2cb69dc186c2905f0f572a0c434cf8177c73365c6897f
-SHA512: f0046255466cf501bb6a35edd494b901fa6e12d5d1c2ea46250dafe0fc6abd0dcc9d90a4a64b1bd603a5870c332a9a22652a9f40f0bf6113dbb0b39bbecd4b59
-Depiction: https://ph03nixteam.github.io/xs/description.html?id=me.autotouch.AutoTouch.ios8
-Size: 28753960
+MD5sum: cfc7acaaf16202652f7e1c138a7f4ed5
+SHA1: b91c9f64e97574f48e34d71bfb948b059ef896fa
+SHA256: 775a2bd70ade3b22e551d2b3af9655da3f283a5093516b4fef19ef22f1f2c9af
+SHA512: 9c2573d932704d431a3bcc9a90614f957989b97bcd6fd901bb627de27c2a5b8e4508c13881fd049f3ee33d69242d8b03f28501f97768b06c949dc1a90f8a03a2
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.526
+Size: 28753816
 
 Package: com.blackwings.autotouch.612
 Name: AutoTouch v6.1.2 iOS 13
