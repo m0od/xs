@@ -51,32 +51,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.2
 Filename: ./debs/com.blackwings.autotouch_6.1.2_iphoneos-arm.deb
-MD5sum: 83dcfff775dbd5b7570ec7431300cf26
-SHA1: 47429e557c19a3e2983fc82705d7cfb6d53a1259
-SHA256: 1956488adee77fd9340b2a58c68b9887b5abe69c2421baf09aa75615439950a4
-SHA512: 56aa3a5b9da3f7e5f58044531d16c11bf4e9c8eba96374036ec0a3770da6ea06117477eb0e762149b5135e1c5f8a7a55132b5f03033313eaf84229e201ba6209
+MD5sum: de08070f19fb8c842f2610640691b5f9
+SHA1: 9971de1c4522c2a6ea2d3a0a0ba0984df811c5fa
+SHA256: d7ceda5717753ea51696e7c8c4673fc45d18adae647cf57a335de1d6def84a9e
+SHA512: bdf44ec9a773ea6a7289083af0b4f963d54721413609e54ebb3493b72ad125f26f42031e4b8ab4b8b524457a9d33d58ec209611bda13783b3a097a5fb7dd73c4
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.612
-Size: 28707928
-
-Package: com.blackwings.autotouch.613
-Name: AutoTouch v6.1.3 iOS 13
-Description: Record and playback touch operations, play macro scripts automatically.
-Section: Utilities
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: https://bwat.ph03nix.club
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Version: 6.1.3
-Filename: ./debs/com.blackwings.autotouch_6.1.3_iphoneos-arm.deb
-MD5sum: 484d0360a515b452e87fe76c24c54aff
-SHA1: 4d6d8176f917c688e2e84a6a3056144617a4a116
-SHA256: 57a0117442f4e691320f603fbb414c9dc57bb6800ac0762a2de9ad368998047e
-SHA512: c4f90340022d72a9286d75cefbbd2aba293a90b8c7acf66b3f21476a55681865cd59e736447f7b7067ac3d9f12c311c3edbad33302284db574a7c6a6abd6118e
-Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.613
-Size: 31411876
+Size: 28708052
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
