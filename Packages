@@ -51,12 +51,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.6
 Filename: ./debs/com.blackwings.autotouch_5.2.6_iphoneos-arm.deb
-MD5sum: 2394354a126290aedcac5e1638567348
-SHA1: 6be46e5fba4988932905f23dfb90c3c3d45e2873
-SHA256: a4df32f02e4ba50b254636cc3a2ebc54457c37251c548d561c84f71b0c163773
-SHA512: c65b4d6ce42de2f67a4f76817966476bf121a628ecb4040f2ff84b5f4eaa90cce5c085c253d45aa6e65114d16922eb2efa5e0eafc31bf556e77e735c2c613dc0
+MD5sum: 8569609778d5de991d04d0c6b6679f51
+SHA1: 6e01d5af25ca88ba38337bacd29664e3eafc7cc4
+SHA256: d1fc247a476d3d9440adaefd460344945ea1ad91297e4bc08cda7049ac396532
+SHA512: cbfcd11c62d8b94ac4b17f713a60379472bc58fdc225e384446829169311a74c79ba50c88eea504e0e80f2fb0fccc7984bb71a475b81e1cb4b19889b8658fef1
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.526
-Size: 28753836
+Size: 28753680
 
 Package: com.blackwings.autotouch.612
 Name: AutoTouch v6.1.2 iOS 13
