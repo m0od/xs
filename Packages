@@ -78,6 +78,46 @@ SHA512: e5d3d77319030c7c64b6321c93051c04497d36e1c90701c27a4570846c7afa42d742a463
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.612
 Size: 28709988
 
+Package: com.blackwings.autotouch.616
+Name: AutoTouch v6.1.6 iOS 13
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: https://bwat.ph03nix.club
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 6.1.6
+Filename: ./debs/com.blackwings.autotouch_6.1.6_iphoneos-arm.deb
+MD5sum: bf5a3f85de1b80d2a41cd7e27731bbc5
+SHA1: 6d57b130daa64b3beaf43e947673b4cec79777f6
+SHA256: 28b69b50aafc6387e716e8f6ac8c899c3ecac5098f3c9f78541015f6f52a93e0
+SHA512: 957d1f83bfe58905c1f4be2324ac1e058c10516ea7f296a0c2b03ab020b22bfa2f89d87c89e1aa35098b665d8906ad5575a14e5810fc3f65fdf582e28df84776
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.616
+Size: 26731824
+
+Package: com.blackwings.autotouch.617
+Name: AutoTouch v6.1.7 iOS 13
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: https://bwat.ph03nix.club
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 6.1.7
+Filename: ./debs/com.blackwings.autotouch_6.1.7_iphoneos-arm.deb
+MD5sum: 32d4c5e25e7eb1359f4fbb336ff11be0
+SHA1: f95f64144638f88b866d7e4a6893490dacda9707
+SHA256: f3ecb2402b16b960110357340f44d936cf34963381e4ccb8c6fe0f575d5e6e48
+SHA512: 22dce4c00e3affa05dfe7c46dfe91c228d630bef390979f343b2d07c42ce9155f0f928eefade9c4fcb18d039a644f935aa568266e44df7f92c43bf3a14d1f89c
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.617
+Size: 26736420
+
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
 Description: Free Premium VPN Proxy Master
