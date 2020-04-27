@@ -91,12 +91,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.6
 Filename: ./debs/com.blackwings.autotouch_6.1.6_iphoneos-arm.deb
-MD5sum: bf5a3f85de1b80d2a41cd7e27731bbc5
-SHA1: 6d57b130daa64b3beaf43e947673b4cec79777f6
-SHA256: 28b69b50aafc6387e716e8f6ac8c899c3ecac5098f3c9f78541015f6f52a93e0
-SHA512: 957d1f83bfe58905c1f4be2324ac1e058c10516ea7f296a0c2b03ab020b22bfa2f89d87c89e1aa35098b665d8906ad5575a14e5810fc3f65fdf582e28df84776
+MD5sum: 7bde28a9b25f8255aa40a3787bd9e28f
+SHA1: c4cd9ce2312f328d249d3708906d07365d9f1249
+SHA256: 87caf489748427f0cef83a60c9c5b50b942a2a3b820095bfab976e6b8c391420
+SHA512: 40fd7a63d3b3198c0d11b1caed9f5a048731dd6c59615eafcb6a6016b8d8fb643032dd8c9b396f01781e685d6531fc250a2967f1b3eb1fb045d19a898824b1df
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.616
-Size: 26731824
+Size: 26731808
 
 Package: com.blackwings.autotouch.617
 Name: AutoTouch v6.1.7 iOS 13
@@ -111,12 +111,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.7
 Filename: ./debs/com.blackwings.autotouch_6.1.7_iphoneos-arm.deb
-MD5sum: 32d4c5e25e7eb1359f4fbb336ff11be0
-SHA1: f95f64144638f88b866d7e4a6893490dacda9707
-SHA256: f3ecb2402b16b960110357340f44d936cf34963381e4ccb8c6fe0f575d5e6e48
-SHA512: 22dce4c00e3affa05dfe7c46dfe91c228d630bef390979f343b2d07c42ce9155f0f928eefade9c4fcb18d039a644f935aa568266e44df7f92c43bf3a14d1f89c
+MD5sum: cd5e0d9b6090543f3b4120d4e52906d1
+SHA1: 97d5dea61213051871b01f4799df31be63bcf88e
+SHA256: 0e3b74bd861e8d149031c947dd121709cd0e2f66cf697b84e55c27e553135f7c
+SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae23773627b5c2d74ab8b4f4508d3362d144f5247afddfb5a7d283931c9
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.617
-Size: 26736420
+Size: 26736404
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
