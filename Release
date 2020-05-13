@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: BlackWings XS Repo
 MD5Sum:
- 570d7db1ce20bb24d955b14a7f260dac 10033 Packages
- c62b360cc9f72425e08fe7750cb47af0 2957 Packages.bz2
+ 17742abcf7ab9de66901d9698175268b 10040 Packages
+ 06ebf2602ab5ef73ad03dfdfa313fd10 2968 Packages.bz2

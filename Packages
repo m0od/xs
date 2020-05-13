@@ -119,7 +119,7 @@ Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.a
 Size: 26736404
 
 Package: com.blackwings.autotouch.700
-Name: AutoTouch
+Name: AutoTouch v7.0.0
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
@@ -129,14 +129,14 @@ Architecture: iphoneos-arm
 Author: BlackWings
 Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Version: 6.1.7
+Version: 7.0.0
 Filename: ./debs/com.blackwings.autotouch_7.0.0_iphoneos-arm.deb
-MD5sum: e6e694fe907d67b111b894d421628a98
-SHA1: 21077b9076fe99e02787b05d343ff304b639ab26
-SHA256: 30911c5bf618303a6afe4a4a67f62d83995c890bb61f60a9dd60f41091b6b562
-SHA512: b91abb145899d041ca89959cf685fedac7ca87dc0237280024687f317f8fce567a7c1d27486e209952b4f64dd9d65ad129ce36e0bc97da289fa04b3744282f39
+MD5sum: ffd566783fe1222dc236a1cf9fff699d
+SHA1: 0d7abae75af76a1b1aea93bcde32e13d65406681
+SHA256: 488563d11e42b4bb8689908a06abe062c8ab8daf308c61e1f9049299a3b43781
+SHA512: e00f9c464c5c5884716da37bba9c5b4732fabc83cf090872f8fe41ada2f95346d8473618f663c38ab10df1ca92a0ceceb8b4982595549547862fe22be290cc2c
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.700
-Size: 26982136
+Size: 26986964
 
 Package: com.blackwings.fixstorage
 Name: Fix Full Storage iOS 10
