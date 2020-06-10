@@ -98,6 +98,26 @@ SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae2
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.617
 Size: 26736404
 
+Package: com.blackwings.autotouch.7014
+Name: AutoTouch v7.0.14
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: https://bwat.ph03nix.club
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 7.0.14
+Filename: ./debs/com.blackwings.autotouch_7.0.14_iphoneos-arm.deb
+MD5sum: d1f5b1780a6e978626654bc7e6aa1e2b
+SHA1: d10bd332fe7951b460d8182ff4303e3a8c9d70c9
+SHA256: b613f97fa312f7a89b1bd0a4525c914285520113272dabaf60066df621b65ecb
+SHA512: 18929a6227960bd127ed69683a1bf07e46c0ac6c00c1ec69ab27ba1b495ae781c1a451bfe40f1254e20d62cb02752f988b3b8a26f4ee9e71db56925b9865a3f3
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.7014
+Size: 29049464
+
 Package: com.blackwings.autotouch.703
 Name: AutoTouch v7.0.3
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -157,6 +177,26 @@ SHA256: 1891af415a7405377945a1b1da97b0d0405fdc940519f62ad84c830fd79a6dec
 SHA512: f8451248f5f4187598ce9e4cbf961b0c8b69a0dd2e8f97874b37fed7e741bc7dc37292726aac87511ef7200e54835ae0a5ebe3c3d478c8e7ebe94391ad1efd2b
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.fixstorage
 Size: 784
+
+Package: jp.akusio.kernbypass
+Name: KernBypass
+Description: kernel level jailbreak detection bypass.
+Section: System
+Depends: mobilesubstrate, applist, preferenceloader, firmware (>= 12.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: akusio
+Homepage: 
+Maintainer: akusio
+Version: 0.0.3
+Filename: ./debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
+MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
+SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+SHA512: fc03ab4b20d5fb91db7acff35d8b3b2c5a4305abe9a0b1d62534a47727fac776590eafc0a9944cbdfa08f89b9180296e0bddee068b6a57340f5836500fe9dabf
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=jp.akusio.kernbypass
+Size: 15114
 
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
