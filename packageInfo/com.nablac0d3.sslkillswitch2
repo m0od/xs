@@ -1,0 +1,1 @@
+{"name": "SSL Kill Switch 2", "description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps."}

@@ -198,6 +198,26 @@ SHA512: f8451248f5f4187598ce9e4cbf961b0c8b69a0dd2e8f97874b37fed7e741bc7dc3729272
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.fixstorage
 Size: 784
 
+Package: com.nablac0d3.sslkillswitch2
+Name: SSL Kill Switch 2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Homepage: 
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Version: 0.14-3+debug
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+SHA512: 570a1d10f82b21cfd38ae63838ee39e8f77e00d8a2bcad06de6a2c1d16acbca48e23b1eb130bd1476f7e9e609bdbade0b753ec288b240783b9380e460d7ed0db
+Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.nablac0d3.sslkillswitch2
+Size: 7392
+
 Package: jp.akusio.kernbypass
 Name: KernBypass
 Description: kernel level jailbreak detection bypass.
