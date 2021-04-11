@@ -111,12 +111,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.8
 Filename: ./debs/com.blackwings.autotouch_6.1.8_iphoneos-arm.deb
-MD5sum: bd122e310b5c26da8992983fc2e77d1e
-SHA1: 7d84758914461ba4bc2ee89bc905fd7f13ddd4df
-SHA256: 193abf2afc3cc335d2916aa351e200a32b7b5d04a31c7eac6f7eb38e1a29720f
-SHA512: b6096f385386d2066077cbe1284ff43d49e07e93e1170aa2f629caf5199e0a409f10605cee0644ee0301e285328bf26953ee2fd50b54fca752d769a7631c5f75
+MD5sum: dc8a51ebe87b5bb04fe6d57eddcd55ef
+SHA1: 946be7dfb3c9a6d6b1d81145bf6d4e538102c5f0
+SHA256: 7a2292e5a63faddbb305b11709e1ee68ab7b5380b8c172ffcde5f17bb24d04ca
+SHA512: ed8b3f1ab275df0219d41eb8797108e77cf2163c01ed6fa77f5a29366051eada3e04cc2d5f0d30b5f9e1ca7a732eed2428b77ea385f068e9a9e6ebc48e97cf0a
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.618
-Size: 26747284
+Size: 26748180
 
 Package: com.blackwings.autotouch.7014
 Name: AutoTouch v7.0.14
