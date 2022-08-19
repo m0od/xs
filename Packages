@@ -151,12 +151,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.1.5
 Filename: ./debs/com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-MD5sum: affb1c166ce4df87087dbd4fe4d43eb2
-SHA1: ade6b9e0d8e8150d8fd473a1b424905e21d19386
-SHA256: de13e3cfeedede35ad5a5402f628e0ac2b0851699ab399527a3f5523f4a46405
-SHA512: b012a86c1bed7439277e8878ecb4b7211a1b3e57430889c22b96a104213abd95b0e2263f6d839869f799a95591d584f21374adb33ec11364d380725f0dae5658
+MD5sum: 25dad4998168d951eb57ad140dee3cb6
+SHA1: 0007cd5953f7eb4a65e2264f630e4594bb6f0f39
+SHA256: 06832a9ea7d4ef2ed8216f93400835d2ed110e4a8b5f98a7d8be560786db2c3b
+SHA512: f6994a10a718a227f76f422971b47ff6bebc5700dfe09192a13525bb2d04128ddcb66ae116a08a860a47a110690566fe1a02ce0a38d2af41f64f5134519cabce
 Depiction: https://ph03nixteam.github.io/xs/description.html?id=com.blackwings.autotouch.515
-Size: 45179856
+Size: 45178904
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
