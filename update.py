@@ -23,7 +23,7 @@ def gen_package(filepath):
     ret += 'SHA1: {}\n'.format(get_hash(filepath, 'sha1'))
     ret += 'SHA256: {}\n'.format(get_hash(filepath, 'sha256'))
     ret += 'SHA512: {}\n'.format(get_hash(filepath, 'sha512'))
-    ret += 'Depiction: https://ph03nixteam.github.io/xs/description.html?id={}\n'.format(deb_info.get('Package'))
+    ret += 'Depiction: https://m0od.github.io/xs/description.html?id={}\n'.format(deb_info.get('Package'))
     ret += 'Size: {}\n'.format(get_size(filepath))
     info = {
         "name": deb_info.get('Name'),
