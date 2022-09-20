@@ -38,6 +38,26 @@ SHA512: 6b8dc9bc2a6164c45c8474617407adaa0cc5273aa70c3a3dd6a65be3648c7e28a326898c
 Depiction: https://m0od.github.io/xs/description.html?id=ru.domo.cocoatop64
 Size: 151514
 
+Package: com.sieunhan.cc-clone
+Name: cc_clone
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.1-1
+Filename: ./debs/com.sieunhan.cc-clone_0.1-1_iphoneos-arm.deb
+MD5sum: e46b91adf4fdb4e7f287a26d0b3ae30a
+SHA1: aa9c712b35db5108cf6a96e8cd7b7bd48324d384
+SHA256: 2f25243c0caa3976cdea17381cf308393e2debeba98f46de24832540c92d285c
+SHA512: fbb68c0b96e97a14f20f6724858d7d23024af9e7c7f6fda6413888b196f5851e2d4e516b2fe04a87109b4739d2894ffc32d0792e0544ff4871d253b95535dd75
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-clone
+Size: 32294
+
 Package: com.blackwings.autotouch.616
 Name: AutoTouch v6.1.6 iOS 13
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -177,6 +197,26 @@ SHA256: d842e777f0c0a3dab2ff93165a6cd18f89d57a4a9ee0901fa2a4efd40faed235
 SHA512: ed6643cfb8469e49ecf3d8d1de6447f6311e78c067e6cd9abf3aab2a2ae98345fc138b3dae0614c8e9ee695a81c8dd5e8312c2cae9712ff533de6150fb273ec1
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.716
 Size: 31365856
+
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 5.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.1-1
+Filename: ./debs/com.sieunhan.cc-reset_0.1-1_iphoneos-arm.deb
+MD5sum: 0d38f4b621185a4d4f270b58fc3198b3
+SHA1: 5f8078cc8dfe39f12fc0c4586a2a5901244fd3e7
+SHA256: 5f3d631d72dd423a9dfdd3a1837e2298862ddc2cb90552b762b6695fdceeae0b
+SHA512: 32f5bfd04f3f9d5001105c60412c81e8a1865ba9ab11bab3765c1eddf554f215eb18a72e86acc59d6076d3b19fd036ba7f9070ff3835bca54df989b17bb35f8c
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 2648350
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
