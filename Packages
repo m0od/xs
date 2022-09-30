@@ -211,12 +211,12 @@ Homepage:
 Maintainer: 
 Version: 0.1-1
 Filename: ./debs/com.sieunhan.cc-reset_0.1-1_iphoneos-arm.deb
-MD5sum: 0d38f4b621185a4d4f270b58fc3198b3
-SHA1: 5f8078cc8dfe39f12fc0c4586a2a5901244fd3e7
-SHA256: 5f3d631d72dd423a9dfdd3a1837e2298862ddc2cb90552b762b6695fdceeae0b
-SHA512: 32f5bfd04f3f9d5001105c60412c81e8a1865ba9ab11bab3765c1eddf554f215eb18a72e86acc59d6076d3b19fd036ba7f9070ff3835bca54df989b17bb35f8c
+MD5sum: cc40f842f3948040796e5033827b360f
+SHA1: 0ee3fef1630354d050596973da2210856b304e81
+SHA256: 0dd627011d6b432ffe8434409fac03e8f36eaedc1b0f936164cfe6db00b6a0c4
+SHA512: 08fb167bb279128e1bbad0481e0b93003dcd0c7c118615c2ea04683511b840540e6021f4259d250ea75d830206250a846f4a43f1324968d613954f60ea776669
 Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 2648350
+Size: 2462874
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
