@@ -198,26 +198,6 @@ SHA512: ed6643cfb8469e49ecf3d8d1de6447f6311e78c067e6cd9abf3aab2a2ae98345fc138b3d
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.716
 Size: 31365856
 
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 5.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.1-1
-Filename: ./debs/com.sieunhan.cc-reset_0.1-1_iphoneos-arm.deb
-MD5sum: cc40f842f3948040796e5033827b360f
-SHA1: 0ee3fef1630354d050596973da2210856b304e81
-SHA256: 0dd627011d6b432ffe8434409fac03e8f36eaedc1b0f936164cfe6db00b6a0c4
-SHA512: 08fb167bb279128e1bbad0481e0b93003dcd0c7c118615c2ea04683511b840540e6021f4259d250ea75d830206250a846f4a43f1324968d613954f60ea776669
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 2462874
-
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -257,6 +237,26 @@ SHA256: 0e3b74bd861e8d149031c947dd121709cd0e2f66cf697b84e55c27e553135f7c
 SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae23773627b5c2d74ab8b4f4508d3362d144f5247afddfb5a7d283931c9
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.617
 Size: 26736404
+
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.2
+Filename: ./debs/com.sieunhan.cc-reset_0.2_iphoneos-arm.deb
+MD5sum: 1e4d65411487109af2eada1211b89a53
+SHA1: 8724c980cc3cb0c7814906ba2d19621771da5892
+SHA256: 5be44b441395563437990b53dd58b3a01f8589a9a815b3585e8c5edd11531b4e
+SHA512: e42b59207acb8ec213408a5f8b8a6ba4dda1dac011c1f8462f656fea71062c498566425936d75cef3d3687932f100838224cd811af108ce797a3d889082dbd32
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 3090550
 
 Package: com.blackwings.autotouch.7034
 Name: AutoTouch v7.0.34
