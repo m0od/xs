@@ -290,6 +290,26 @@ Author: BlackWings
 Homepage: 
 Maintainer: 
 Version: 0.4
+Filename: ./debs/com.sieunhan.cc-reset_0.5_iphoneos-arm.deb
+MD5sum: 7375d1218fe6582d44a7dc38096da89f
+SHA1: dd3e1d98c3ec621439570bb987506b230fe81c49
+SHA256: c870a048abf7e70bce12a9e2ca885035675a8470833dfdf7e100596c89e76d33
+SHA512: 5300bb4aa4f6a8c3ea75257bd87cde344baa14d496829effc63ceac7741e5636e1804cb6c96f04b3d4eddf93f6f8c3b2c8c9cba970f61a3e6ad028349bb22b8a
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 19997844
+
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.4
 Filename: ./debs/com.sieunhan.cc-reset_0.4_iphoneos-arm.deb
 MD5sum: 23f6d361c332e873f68d8b539946becf
 SHA1: f341512f3c9a187028d11ea8dbe8b869e0ecaa7c
