@@ -289,14 +289,14 @@ Architecture: iphoneos-arm
 Author: BlackWings
 Homepage: 
 Maintainer: 
-Version: 0.4
+Version: 0.5
 Filename: ./debs/com.sieunhan.cc-reset_0.5_iphoneos-arm.deb
-MD5sum: 7375d1218fe6582d44a7dc38096da89f
-SHA1: dd3e1d98c3ec621439570bb987506b230fe81c49
-SHA256: c870a048abf7e70bce12a9e2ca885035675a8470833dfdf7e100596c89e76d33
-SHA512: 5300bb4aa4f6a8c3ea75257bd87cde344baa14d496829effc63ceac7741e5636e1804cb6c96f04b3d4eddf93f6f8c3b2c8c9cba970f61a3e6ad028349bb22b8a
+MD5sum: a0e7f9fc9947103799c3b2bc7962147c
+SHA1: 40713d4b1df550d2f1a567eb9e9103fece476dad
+SHA256: 82d4b2067dc1367bd494e003a9dee9d693730aea0edfb899b89c4748b9ba9f89
+SHA512: 4aaf6dd2772cc03d179885a9886e2fe52b41d4c25d6f4cf599cd0cb31ac56891866704638366a8f9f02f71472ef110868d01d738a8f45a770531cd6e57f10d49
 Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19997844
+Size: 19997992
 
 Package: com.sieunhan.cc-reset
 Name: cc_reset
