@@ -238,6 +238,26 @@ SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae2
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.617
 Size: 26736404
 
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.6
+Filename: ./debs/com.sieunhan.cc-reset_0.6_iphoneos-arm.deb
+MD5sum: 8b626119a59827c40ce2f20789e49770
+SHA1: 8f13ec7ccc3093a4de88b3993b79b250ad0441d5
+SHA256: 901f3489e5e0ee448c49d36eedad1c7dc0d9895b4a93bf4bf519b05eaa5338c1
+SHA512: f36ba7b327b6f78707fb351b6ef8f0c5eb8d25b45a898085612c9dbfe57efc782947efdc0a709baff5b7cd9751dbd2295b66ccdafb8aa9a1c58885c1314c3370
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 19491088
+
 Package: com.blackwings.autotouch.7034
 Name: AutoTouch v7.0.34
 Description: Record and playback touch operations, play macro scripts automatically.
