@@ -58,6 +58,26 @@ SHA512: fbb68c0b96e97a14f20f6724858d7d23024af9e7c7f6fda6413888b196f5851e2d4e516b
 Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-clone
 Size: 32294
 
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.7
+Filename: ./debs/com.sieunhan.cc-reset_0.7_iphoneos-arm.deb
+MD5sum: 205a58ffdeaea8bcca3f4a606d9327f7
+SHA1: 42be27efbae522442c340d5e00fa9e02610d9c5e
+SHA256: 1e45a95c75b4acc9e71252dcc042523c993a823745f1df7659a155c0a6256740
+SHA512: aa77a1934f0f9de27357e79907834c7a9b152005370bd01272df50c72d8e50a4a0aab03ce878c4c328e17e2de59dc586d1426d860078d6cbaf23fc54c74cd990
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 19487172
+
 Package: com.blackwings.autotouch.616
 Name: AutoTouch v6.1.6 iOS 13
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -238,26 +258,6 @@ SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae2
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.617
 Size: 26736404
 
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 8.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.6
-Filename: ./debs/com.sieunhan.cc-reset_0.6_iphoneos-arm.deb
-MD5sum: 8b626119a59827c40ce2f20789e49770
-SHA1: 8f13ec7ccc3093a4de88b3993b79b250ad0441d5
-SHA256: 901f3489e5e0ee448c49d36eedad1c7dc0d9895b4a93bf4bf519b05eaa5338c1
-SHA512: f36ba7b327b6f78707fb351b6ef8f0c5eb8d25b45a898085612c9dbfe57efc782947efdc0a709baff5b7cd9751dbd2295b66ccdafb8aa9a1c58885c1314c3370
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19491088
-
 Package: com.blackwings.autotouch.7034
 Name: AutoTouch v7.0.34
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -297,46 +297,6 @@ SHA256: 8e10e56576c95c526982ad52f7def1a6811143b7a9755a276d330b5abbc53915
 SHA512: 81fbd1f48c7f587772fa2807b71b56ec70b0d448782ecf6a2aaffd467d6d182a79daa2b7d1339e6fa010f40d3a998f6a0fe629d2376cf60e57477d988740ec64
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.618
 Size: 26889460
-
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 8.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.5
-Filename: ./debs/com.sieunhan.cc-reset_0.5_iphoneos-arm.deb
-MD5sum: a0e7f9fc9947103799c3b2bc7962147c
-SHA1: 40713d4b1df550d2f1a567eb9e9103fece476dad
-SHA256: 82d4b2067dc1367bd494e003a9dee9d693730aea0edfb899b89c4748b9ba9f89
-SHA512: 4aaf6dd2772cc03d179885a9886e2fe52b41d4c25d6f4cf599cd0cb31ac56891866704638366a8f9f02f71472ef110868d01d738a8f45a770531cd6e57f10d49
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19997992
-
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 8.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.4
-Filename: ./debs/com.sieunhan.cc-reset_0.4_iphoneos-arm.deb
-MD5sum: 23f6d361c332e873f68d8b539946becf
-SHA1: f341512f3c9a187028d11ea8dbe8b869e0ecaa7c
-SHA256: f2f29bd8cef411b5df9cc0fc27f6760ff6e037d2dd120170e4c81d655018d7e5
-SHA512: 165ce21b6474b7b419867641cf06a503b370cf114d8e4c0bba3ebc3b1067fccc6d0259a61d10af48c2fbd2cc1a978a7abab4286bdcb696ccca84c2826b640cd0
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19997924
 
 Package: com.blackwings.fixstorage
 Name: Fix Full Storage iOS 10
