@@ -58,26 +58,6 @@ SHA512: fbb68c0b96e97a14f20f6724858d7d23024af9e7c7f6fda6413888b196f5851e2d4e516b
 Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-clone
 Size: 32294
 
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 8.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.7
-Filename: ./debs/com.sieunhan.cc-reset_0.7_iphoneos-arm.deb
-MD5sum: 205a58ffdeaea8bcca3f4a606d9327f7
-SHA1: 42be27efbae522442c340d5e00fa9e02610d9c5e
-SHA256: 1e45a95c75b4acc9e71252dcc042523c993a823745f1df7659a155c0a6256740
-SHA512: aa77a1934f0f9de27357e79907834c7a9b152005370bd01272df50c72d8e50a4a0aab03ce878c4c328e17e2de59dc586d1426d860078d6cbaf23fc54c74cd990
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19487172
-
 Package: com.blackwings.autotouch.616
 Name: AutoTouch v6.1.6 iOS 13
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -277,6 +257,26 @@ SHA256: 7e6eae9bedd1baa2b787ec659febe54c71882d1acf86c57740c5694124b9f706
 SHA512: b440363e7a449d5977b5780a3939a5b6cf1abbd079344a424660021916686156626dbe3ed279c3b85e813e6f7e7e6d5f1734b1a7da30e2cff12822e96693430d
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.7034
 Size: 30188568
+
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 0.9
+Filename: ./debs/com.sieunhan.cc-reset_0.9_iphoneos-arm.deb
+MD5sum: f195941aa0060109ded040f2d4527921
+SHA1: e23f5f2b1fab69d646d46b9b0cea20e52a365349
+SHA256: eb1ba86567f4e1dee8aca3916dc4308f23eaa31d0cb166f47adfd7e7cde050ca
+SHA512: 8b3a632c3a05aed2a4a85485c37b48a25d06a016a68f3c0b96adb833669d7c6901c842bc2ee7dc9ffb6ab9da2509f1da29162022db3f83d9bd08860ad64f3b24
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 19857180
 
 Package: com.blackwings.autotouch.618
 Name: AutoTouch v6.1.8
