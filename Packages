@@ -183,20 +183,20 @@ Name: AutoTouch v7.1.6
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 9.0), mobilesubstrate
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8, me.autotouch.autoTouch.ios8, me.autotouch.autoTouch.ios8.inputtext
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Priority: optional
 Architecture: iphoneos-arm
 Author: BlackWings
-Homepage: https://bwat.ph03nix.club
+Homepage: 
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 7.1.6
 Filename: ./debs/com.blackwings.autotouch_7.1.6_iphoneos-arm.deb
-MD5sum: e35e1cf079b98d46651dd9a5064fbdcb
-SHA1: ed8bfbaebdf66e3cbd9727ad5af5ec3ee97e5ff8
-SHA256: a518d53f8a8127d6018de5257c971c8793e71424a07b22dc16241182338878c3
-SHA512: cf10bb8e9425df8ea0a7acea607844f0dc2da965905077b213a4911d899da0e5c13cbc7fffd690ddefb11886b262b1d8797ab2a52079438170a30d16edc91ebc
+MD5sum: 02a9b107f9e33f2c19752ffd5d3e210d
+SHA1: 8bea00112892297636a05333ebbfb7790581305b
+SHA256: e7e2bf74f76f1abfec8e37bd90ec8f025b9b7794f921197e1e7124dae75de5e9
+SHA512: 6960e4cdbf3af7d42ef9234df02a2e59813ce0ab20b2910cd719feab0eac50666d4387435db3248c594dd9f9e804a3e9b8f6eb4dbeaa91407f21e99bee20cd3d
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.716
-Size: 31367864
+Size: 23482948
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
@@ -337,6 +337,26 @@ SHA256: fc071b2666f3da80a98ae7ff49688f7d0045d016662025c8eb71c30dd3d5d5c0
 SHA512: 746472a1fb948e38301aa2bbb30160fc07d54e00a1e4a40b9539f81b88c89de2fa8a8d94b4bccc9b82274bacd6ca25cd122cb50a787f99bd8755adbf55afcc11
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.526
 Size: 28753412
+
+Package: com.sieunhan.cc-reset
+Name: cc_reset
+Description: 
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: 
+Version: 3.5.7
+Filename: ./debs/com.sieunhan.cc-reset_3.5.7_iphoneos-arm.deb
+MD5sum: c703c7329c737a527f4a265ee60b755c
+SHA1: be46f38e570280466bb0c356ef4a62c201dd9096
+SHA256: 5302741fb15ec531d82ba621dd3cec035cae4974b74778f9ac43282bc453b9bb
+SHA512: 19b394669585fa988ca7e305587361f8ecc68778189af134389b9f885bee218bc0be30efc5e2efe0c5639107aa176c385bb9ec89900363c00e211ba1c57f1d2d
+Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
+Size: 19881270
 
 Package: com.blackwings.autotouch.703
 Name: AutoTouch v7.0.3
