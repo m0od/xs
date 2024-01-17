@@ -298,6 +298,26 @@ SHA512: 81fbd1f48c7f587772fa2807b71b56ec70b0d448782ecf6a2aaffd467d6d182a79daa2b7
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.618
 Size: 26889460
 
+Package: com.blackwings.at.8011
+Name: AutoTouch v8.0.11 rootful
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 11.0), com.ex.substitute
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 8.0.11
+Filename: ./debs/com.blackwings.autotouch_8.0.11_iphoneos-arm.deb
+MD5sum: e8d780e943396580f22dc803e4fde14f
+SHA1: e388cba96aba2dde94ff673740d0aea161160073
+SHA256: ec060af84be3c67942461953d5d2949b5f2c32c863fb99cbe7f8d8dddf24091c
+SHA512: 8d545c23a665a7bf6a0dedb2630d70d0d1d564c3cb506cf11fae7fd1dfba232e7af4d00ff3b28561fd19ccd45b1c2d926b573806c99688df811aca0a0c2edc79
+Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.at.8011
+Size: 21332176
+
 Package: com.blackwings.fixstorage
 Name: Fix Full Storage iOS 10
 Description: Fix Full Storage when install packages for iOS 10.
