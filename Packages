@@ -438,6 +438,26 @@ SHA512: 2e58978ce8f67924e0cb65ad10b329f214d3bd4fc33011245268586993e7f322b81b3e55
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.703
 Size: 27081740
 
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Priority: optional
+Architecture: iphoneos-arm64e
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Homepage: 
+Maintainer: NyaMisty <misty@misty.moe>
+Version: 1.5.1+roothide
+Filename: ./debs/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
+MD5sum: 78e600fe6c3da64b517fefb866f93538
+SHA1: c4a7a6bdc01d6e5d03020d41a0fae38652c0e72d
+SHA256: c2bacb4d53a6761b5cd6eaf5c6e1abae259b36fcd75cc8abc268d00e39ddc1bf
+SHA512: 1cc93f04436859f22006a6ad904f8a5ea8c4c8948fc7834d43ae6524f0f83bd0bac34babcad902e18e771a3836c8b684782b65025a0b0ddd7f499e1504fed0d1
+Depiction: https://m0od.github.io/xs/description.html?id=moe.misty.sslkillswitch3
+Size: 17232
+
 Package: com.blackwings.autotouch.7022
 Name: AutoTouch v7.0.22
 Description: Record and playback touch operations, play macro scripts automatically.
