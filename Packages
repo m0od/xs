@@ -38,6 +38,26 @@ SHA512: 6b8dc9bc2a6164c45c8474617407adaa0cc5273aa70c3a3dd6a65be3648c7e28a326898c
 Depiction: https://m0od.github.io/xs/description.html?id=ru.domo.cocoatop64
 Size: 151514
 
+Package: netskao.hideallbar-rootless
+Name: HideAllBar-Rootless
+Description: Hide the black bars in all places of the X series without any impact
+Section: Netskao-Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm64e
+Author: Netskao
+Homepage: 
+Maintainer: Nets
+Version: 2.1-1
+Filename: ./debs/netskao.hideallbar-rootless_2.1-1_iphoneos-arm64e.deb
+MD5sum: f7c70f9093f188ff5026749886015494
+SHA1: 0eb916a6f128a6906c819f8a8f7e45840d4b3f40
+SHA256: b08c58a6f83e4b5d57a91905ba3d7649ec87ec1e18d7348f48d7b142d36e4422
+SHA512: 761bd644738d8c4091b098ed9ad076ff137d4b8f687db8e8fff9cf78c21169075578ecdf8a4a8c13a91ff15151f8937eff33385e04ad79ff76ee1839069d5eb5
+Depiction: https://m0od.github.io/xs/description.html?id=netskao.hideallbar-rootless
+Size: 5432
+
 Package: com.sieunhan.cc-clone
 Name: cc_clone
 Description: 
@@ -217,6 +237,26 @@ SHA256: 23e782e39ba4dcedd5f3b6f806b7a11dcf93a91fdb0e8b7ccd269343535e912a
 SHA512: ff5564e80e9b2eab3e4a25f50d089bc5eb0b0b291a95ac7b54011ce8c3f9c0febc7806cab0a943c889b8b2944456c1e1d493025cf29e3f6edbbbb35ef1219732
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.524
 Size: 28751864
+
+Package: com.mtac.ampere
+Name: Ampere
+Description: iOS 16 Style Battery Indicator
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: 
+Priority: optional
+Architecture: iphoneos-arm64e
+Author: MTAC
+Homepage: 
+Maintainer: MTAC
+Version: 1.4
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64e.deb
+MD5sum: 0cec31e6db53317d09edcb6c7bf77a60
+SHA1: 59af1a494f52f5c3998ae1be4ed8e00a4191e544
+SHA256: 11ff325e16332233da885b6a141764c233266a62df4f6e421b0a5a17077d6743
+SHA512: c45fff36cb1b5656759f1717fab279cd3dc6dee9a82e73b1953280a850816e9bc52518b92bee33a92f8a18989e7da1953f8e0a7d78ca55eaa33a80c4ac839cb5
+Depiction: https://m0od.github.io/xs/description.html?id=com.mtac.ampere
+Size: 100136
 
 Package: com.blackwings.autotouch.617
 Name: AutoTouch v6.1.7 iOS 13
