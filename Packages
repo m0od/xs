@@ -1,23 +1,3 @@
-Package: net.hollr2099.vpnproxymasterpp
-Name: VPN Proxy Master++
-Description: Free Premium VPN Proxy Master
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: SarahH12099
-Homepage: 
-Maintainer: SarahH12099
-Version: 1.0.1.3
-Filename: ./debs/net.hollr2099.vpnproxymasterpp_1.0.1.3_iphoneos-arm.deb
-MD5sum: f5ec2cdec8fccd994010f6220a465ab7
-SHA1: b0f1859f55eeb655e462860bd48f429c29900094
-SHA256: 9edfa3fa9c76b8ce8645cb694356780e12df5701a595417f87a4e3a956e39359
-SHA512: 1fd460bad8c2f6ea8557087d5bba6de1ac322d48f2f8d3e2f635fa82460caaaaa3bdeca2a66723f985d354036222cf8d7cde949d24bd3d714e0d94a524a81778
-Depiction: https://m0od.github.io/xs/description.html?id=net.hollr2099.vpnproxymasterpp
-Size: 44816
-
 Package: ru.domo.cocoatop64
 Name: CocoaTop
 Description: Process Viewer for iOS GUI (64-bit)
@@ -37,26 +17,6 @@ SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 SHA512: 6b8dc9bc2a6164c45c8474617407adaa0cc5273aa70c3a3dd6a65be3648c7e28a326898cae6e6a0f4e522eeda7063a94c90dcbd8bd6fa8f4209cc89f6af2e5da
 Depiction: https://m0od.github.io/xs/description.html?id=ru.domo.cocoatop64
 Size: 151514
-
-Package: netskao.hideallbar-rootless
-Name: HideAllBar-Rootless
-Description: Hide the black bars in all places of the X series without any impact
-Section: Netskao-Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm64e
-Author: Netskao
-Homepage: 
-Maintainer: Nets
-Version: 2.1-1
-Filename: ./debs/netskao.hideallbar-rootless_2.1-1_iphoneos-arm64e.deb
-MD5sum: f7c70f9093f188ff5026749886015494
-SHA1: 0eb916a6f128a6906c819f8a8f7e45840d4b3f40
-SHA256: b08c58a6f83e4b5d57a91905ba3d7649ec87ec1e18d7348f48d7b142d36e4422
-SHA512: 761bd644738d8c4091b098ed9ad076ff137d4b8f687db8e8fff9cf78c21169075578ecdf8a4a8c13a91ff15151f8937eff33385e04ad79ff76ee1839069d5eb5
-Depiction: https://m0od.github.io/xs/description.html?id=netskao.hideallbar-rootless
-Size: 5432
 
 Package: com.sieunhan.cc-clone
 Name: cc_clone
@@ -211,12 +171,12 @@ Homepage:
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 7.1.6
 Filename: ./debs/com.blackwings.autotouch_7.1.6_iphoneos-arm.deb
-MD5sum: 02a9b107f9e33f2c19752ffd5d3e210d
-SHA1: 8bea00112892297636a05333ebbfb7790581305b
-SHA256: e7e2bf74f76f1abfec8e37bd90ec8f025b9b7794f921197e1e7124dae75de5e9
-SHA512: 6960e4cdbf3af7d42ef9234df02a2e59813ce0ab20b2910cd719feab0eac50666d4387435db3248c594dd9f9e804a3e9b8f6eb4dbeaa91407f21e99bee20cd3d
+MD5sum: 2be92fffb07bba886ebf50ac1af8ab4d
+SHA1: f75b149ba8f167d2e3f6465fe8ac56c558d3b947
+SHA256: 373e95328eef0aaaf6c06e2313af8e416ea1f38ca397ceb53ccf6954370b3acc
+SHA512: 5ca8c558c439f2d2899935f64c5e85c55b248252865d9e403a6744802133ac60e93b39f125c982fa5bf7be9608918004b9d0fba75de1722e9240fb7253618600
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.716
-Size: 23482948
+Size: 31365468
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
@@ -238,26 +198,6 @@ SHA512: ff5564e80e9b2eab3e4a25f50d089bc5eb0b0b291a95ac7b54011ce8c3f9c0febc7806ca
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.524
 Size: 28751864
 
-Package: com.mtac.ampere
-Name: Ampere
-Description: iOS 16 Style Battery Indicator
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm64e
-Author: MTAC
-Homepage: 
-Maintainer: MTAC
-Version: 1.4
-Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64e.deb
-MD5sum: 0cec31e6db53317d09edcb6c7bf77a60
-SHA1: 59af1a494f52f5c3998ae1be4ed8e00a4191e544
-SHA256: 11ff325e16332233da885b6a141764c233266a62df4f6e421b0a5a17077d6743
-SHA512: c45fff36cb1b5656759f1717fab279cd3dc6dee9a82e73b1953280a850816e9bc52518b92bee33a92f8a18989e7da1953f8e0a7d78ca55eaa33a80c4ac839cb5
-Depiction: https://m0od.github.io/xs/description.html?id=com.mtac.ampere
-Size: 100136
-
 Package: com.blackwings.autotouch.617
 Name: AutoTouch v6.1.7 iOS 13
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -277,26 +217,6 @@ SHA256: 0e3b74bd861e8d149031c947dd121709cd0e2f66cf697b84e55c27e553135f7c
 SHA512: 49772df769ef34d07fa84d9ee6ecfe959c04e5f57b5fa123a2274c1fdbfeb6f85dd0bae23773627b5c2d74ab8b4f4508d3362d144f5247afddfb5a7d283931c9
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.617
 Size: 26736404
-
-Package: com.sieunhan.cc-reset
-Name: cc_reset
-Description: 
-Section: System
-Depends: firmware (>= 8.0)
-Conflicts: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: BlackWings
-Homepage: 
-Maintainer: 
-Version: 0.9.1
-Filename: ./debs/com.sieunhan.cc-reset_0.9.1_iphoneos-arm.deb
-MD5sum: fe6b0d74c902c8681920887e0e046fc5
-SHA1: 3c69fc321fc26990befd9e44830aa9b11a3cf489
-SHA256: 8b48eab5a4698fb89544159ffb6cec459eea95a5e0760e025b39be3cecde7519
-SHA512: 53c6b84c05dc2f698640ba6b1de8c40f487994a9494fa40157f9a50b4c25a2bad9171a96856acf7871fb2870e61b5def05b7ec54d8210674184aa5b1559c4c34
-Depiction: https://m0od.github.io/xs/description.html?id=com.sieunhan.cc-reset
-Size: 19857184
 
 Package: com.blackwings.autotouch.7034
 Name: AutoTouch v7.0.34
@@ -337,6 +257,26 @@ SHA256: 8e10e56576c95c526982ad52f7def1a6811143b7a9755a276d330b5abbc53915
 SHA512: 81fbd1f48c7f587772fa2807b71b56ec70b0d448782ecf6a2aaffd467d6d182a79daa2b7d1339e6fa010f40d3a998f6a0fe629d2376cf60e57477d988740ec64
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.618
 Size: 26889460
+
+Package: com.blackwings.autotouch.721
+Name: AutoTouch v7.2.1
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 9.0)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Architecture: iphoneos-arm
+Author: BlackWings
+Homepage: 
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 7.2.1
+Filename: ./debs/com.blackwings.autotouch_7.2.1_iphoneos-arm.deb
+MD5sum: d7f65feb1cf0c40f27d2aadb1e0b9e79
+SHA1: 91092738303636dcaad0107544f2828e95157f6b
+SHA256: defb544b52e760d095810420cff1396b128e4882768c81fd2ecee3b0567c0de2
+SHA512: 9b7e5f9405295dfd87fd99cc4ba9050be51c84f135c3d25e27b7aa31e8c215b9ab4d76cbd6004636ce5c8dc540841c03c144d640794edb4d37c2310476c931af
+Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.721
+Size: 31354876
 
 Package: com.blackwings.at.8011
 Name: AutoTouch v8.0.11 rootful
@@ -437,26 +377,6 @@ SHA256: ec3e4d6cb31e7783656cca7efeda6ba8fbba531b3764a8533b1b6084ad34c0b5
 SHA512: 2e58978ce8f67924e0cb65ad10b329f214d3bd4fc33011245268586993e7f322b81b3e55eb575cf27de2bb114edab2f00adac8c85c30cc1d423bfcad1e70ba3a
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.703
 Size: 27081740
-
-Package: moe.misty.sslkillswitch3
-Name: SSL Kill Switch 3
-Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.nablac0d3.sslkillswitch2
-Priority: optional
-Architecture: iphoneos-arm64e
-Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
-Homepage: 
-Maintainer: NyaMisty <misty@misty.moe>
-Version: 1.5.1+roothide
-Filename: ./debs/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
-MD5sum: 78e600fe6c3da64b517fefb866f93538
-SHA1: c4a7a6bdc01d6e5d03020d41a0fae38652c0e72d
-SHA256: c2bacb4d53a6761b5cd6eaf5c6e1abae259b36fcd75cc8abc268d00e39ddc1bf
-SHA512: 1cc93f04436859f22006a6ad904f8a5ea8c4c8948fc7834d43ae6524f0f83bd0bac34babcad902e18e771a3836c8b684782b65025a0b0ddd7f499e1504fed0d1
-Depiction: https://m0od.github.io/xs/description.html?id=moe.misty.sslkillswitch3
-Size: 17232
 
 Package: com.blackwings.autotouch.7022
 Name: AutoTouch v7.0.22
