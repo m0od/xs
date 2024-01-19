@@ -58,7 +58,7 @@ def gen_release():
     os.system('bzip2 -c9k ./Packages > ./Packages.bz2')
     ret = "Origin: BlackWings XS Repo\n"
     ret += 'Label: BlackWings\n'
-    ret += 'Suite: stablen\n'
+    ret += 'Suite: stable\n'
     ret += 'Version: 1.0\n'
     ret += 'Codename: BlackWings\n'
     ret += 'Architecture: iphoneos-arm\n'

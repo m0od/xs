@@ -1,6 +1,6 @@
 Origin: BlackWings XS Repo
 Label: BlackWings
-Suite: stablen
+Suite: stable
 Version: 1.0
 Codename: BlackWings
 Architecture: iphoneos-arm
