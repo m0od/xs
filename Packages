@@ -279,10 +279,10 @@ Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouc
 Size: 31354876
 
 Package: com.blackwings.at.8011
-Name: AutoTouch v8.0.11 rootful
+Name: AutoTouch v8.0.11
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
-Depends: firmware (>= 11.0), com.ex.substitute
+Depends: firmware (>= 11.0)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Priority: optional
 Architecture: iphoneos-arm
@@ -291,12 +291,12 @@ Homepage:
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 8.0.11
 Filename: ./debs/com.blackwings.autotouch_8.0.11_iphoneos-arm.deb
-MD5sum: e8d780e943396580f22dc803e4fde14f
-SHA1: e388cba96aba2dde94ff673740d0aea161160073
-SHA256: ec060af84be3c67942461953d5d2949b5f2c32c863fb99cbe7f8d8dddf24091c
-SHA512: 8d545c23a665a7bf6a0dedb2630d70d0d1d564c3cb506cf11fae7fd1dfba232e7af4d00ff3b28561fd19ccd45b1c2d926b573806c99688df811aca0a0c2edc79
+MD5sum: 0fb9e655764caf537e5cb4d47bf755b9
+SHA1: d90037d9cfa8ea8173663c1c8761649c73af5f6d
+SHA256: 4d4f9372dcd322ca19c97b66c232b521aa9cac8fe243ee5394a4d02659f1e14e
+SHA512: 3432fc0f930791e9448e2106ca9639f8a842573d68b5bcd21e2cf8266d9b9ae9b528af4a4d00bee21e7f1e2a6f52d270baa8c3b3b7338b0dc19693f1d11449db
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.at.8011
-Size: 21332176
+Size: 21334424
 
 Package: com.blackwings.fixstorage
 Name: Fix Full Storage iOS 10
