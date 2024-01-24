@@ -258,6 +258,26 @@ SHA512: 81fbd1f48c7f587772fa2807b71b56ec70b0d448782ecf6a2aaffd467d6d182a79daa2b7
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.618
 Size: 26889460
 
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+Homepage: 
+Maintainer: CokePokes
+Version: 0.10.1-5
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.10.1-5.deb
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+SHA512: 294f1f34127f0cbc73681510251652c3b4fa9e4c6ada6b2793e1f25c056e7f1e233cb4aba0eab9c8c9434cbf13863fc2f4f3728882550ec2dd2b1f2113b11550
+Depiction: https://m0od.github.io/xs/description.html?id=com.cokepokes.appstoreplusplus
+Size: 4636364
+
 Package: com.blackwings.autotouch.721
 Name: AutoTouch v7.2.1
 Description: Record and playback touch operations, play macro scripts automatically.
